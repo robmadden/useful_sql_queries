@@ -1,2 +1,3 @@
-# useful_sql_queries
-Useful SQL Queries
+# Useful SQL Queries
+
+Utility queries useful for debugging and gathering information from your Postgres database.
